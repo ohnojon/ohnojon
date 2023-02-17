@@ -2,7 +2,7 @@
 > *Learning and sharpening my skills to break into the industry.*
 
 
-📫 How to reach me: [Instagram](https://www.instagram.com/oh.no.jon), [GitHub](https://github.com/ohnojon), [LeetCode](https://leetcode.com/ohnojon/), [My Site](https://jon-kirk.com)
+📫 More Information: [Instagram](https://www.instagram.com/oh.no.jon), [GitHub](https://github.com/ohnojon), [LeetCode](https://leetcode.com/ohnojon/), [My Site](https://jon-kirk.com)
 
 <br>
 
