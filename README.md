@@ -1,7 +1,7 @@
 ## Hi there, I'm Jon - a Python developer 👨‍💻
 > Continuously learning and sharpening my skills to break into the industry.
 
-### ** Currently working on Flask web development and Small Python projects. **
+### **Currently working on Flask web development and Small Python projects.**
 
 ## My Expertise
 
