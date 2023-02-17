@@ -1,9 +1,14 @@
 ## Hi there, I'm Jon - a Python developer 👨‍💻
-> Continuously learning and sharpening my skills to break into the industry.
+> *Learning and sharpening my skills to break into the industry.*
 
-### **Currently working on Flask web development and Small Python projects.**
 
-## My Expertise
+📫 How to reach me: [Instagram](https://www.instagram.com/oh.no.jon), [GitHub](https://github.com/ohnojon), [LeetCode](https://leetcode.com/ohnojon/), [My Site](https://jon-kirk.com)
+
+<br>
+
+## **Currently working on Flask web development and Small Python projects.**
+
+### My Expertise
 
 - Python programming
 - Flask web development
